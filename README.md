@@ -21,7 +21,7 @@ I'm a detail-oriented Software QA Engineer with a combined 5.5 years of experien
 ![Git Bash](https://img.shields.io/badge/Git%20Bash-4EAA25?style=for-the-badge&logo=git&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![DevTools](https://img.shields.io/badge/DevTools-FF6C37?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![TestRail](https://img.shields.io/badge/TestRail-009688?style=for-the-badge&logo=&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
