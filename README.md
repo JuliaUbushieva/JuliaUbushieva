@@ -21,4 +21,4 @@ I'm a detail-oriented Software QA Engineer with a combined 5.5 years of experien
 ---
 
 ### 📈 GitHub Stats
-![Julia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dracula)
+![Julia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuliaUbushieva&show_icons=true&theme=dracula)
