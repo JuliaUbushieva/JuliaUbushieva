@@ -1,3 +1,4 @@
+![MasterHead]([https://miro.medium.com/v2/resize:fit:908/1*fqub6PrwttUIfvdmUpeYZA.jpeg](https://drive.google.com/file/d/1Qh6j2dSAQhbBvRMIf9d9meL3w17Xh-ll/view?usp=drive_link))
 # 👋 Hi, I'm Julia!
 
 ### 👩‍💻 QA Engineer | Python Enthusiast | Automation Tester
