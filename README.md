@@ -1,5 +1,6 @@
-![MasterHead]([https://miro.medium.com/v2/resize:fit:908/1*fqub6PrwttUIfvdmUpeYZA.jpeg](https://drive.google.com/file/d/1Qh6j2dSAQhbBvRMIf9d9meL3w17Xh-ll/view?usp=drive_link))
+![GitHub](https://github.com/user-attachments/assets/51b0905a-492d-4100-b647-01ec74f1d243)
 # 👋 Hi, I'm Julia!
+
 
 ### 👩‍💻 QA Engineer | Python Enthusiast | Automation Tester
 
