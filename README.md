@@ -1,4 +1,5 @@
-![GitHub](https://github.com/user-attachments/assets/51b0905a-492d-4100-b647-01ec74f1d243)
+![GitHub](https://github.com/user-attachments/assets/9746c319-70a5-4d5b-9a50-db7ad170ba87)
+
 # 👋 Hi, I'm Julia!
 
 
