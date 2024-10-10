@@ -2,7 +2,10 @@
 
 # 👋 Hi, I'm Julia!
 
+![Profile views](https://komarev.com/ghpvc/?username=JuliaUbushieva&label=Profile%20views&color=60598F&style=flat)
 
+<div class="github-introduction">
+  
 ### 👩‍💻 QA Engineer | Python Enthusiast | Automation Tester
 
 I'm a detail-oriented Software QA Engineer with a combined 5.5 years of experience in quality assurance, copywriting, and improving user experiences. I'm passionate about identifying and resolving defects to deliver high-quality products that meet and exceed customer expectations.
