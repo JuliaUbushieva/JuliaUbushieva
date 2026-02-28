@@ -8,7 +8,7 @@
   
 ### 👩‍💻 QA Engineer | Python Enthusiast | Automation Tester
 
-I'm a detail-oriented Software QA Engineer with 2+ years of experience in quality assurance and improving user experiences. I'm passionate about identifying and resolving defects to deliver high-quality products that meet and exceed customer expectations.
+I'm a detail-oriented Software QA Engineer with 3+ years of experience in quality assurance and improving user experiences. I'm passionate about identifying and resolving defects to deliver high-quality products that meet and exceed customer expectations.
 
 - 🔭 I’m currently working on projects focused on API testing, UI testing, and Selenium-based automation in Python.
 - 🌱 Learning more about **Test Automation Frameworks** and **CI/CD pipelines**
