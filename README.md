@@ -40,6 +40,3 @@ I'm a detail-oriented Software QA Engineer with 3+ years of experience in qualit
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ubushieva.qa@gmail.com)
 
 ---
-
-### 📈 GitHub Stats
-![Julia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuliaUbushieva&show_icons=true&theme=dracula)
