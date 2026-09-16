@@ -11,9 +11,11 @@
 I'm a detail-oriented Software QA Engineer with 3+ years of experience in quality assurance and improving user experiences. I'm passionate about identifying and resolving defects to deliver high-quality products that meet and exceed customer expectations.
 
 - 🔭 Currently building **[ai-augmented-test-automation](https://github.com/JuliaUbushieva/ai-augmented-test-automation)**: Playwright + Python UI/API test suites with Page Object Model, Allure reporting, and GitHub Actions CI
-- 🌱 Learning more about **Test Automation Frameworks** and **CI/CD pipelines**
-- 💬 Ask me about **API Testing**, **Selenium Automation**, or **Manual Testing**
-- 📫 Reach me: [ubushieva.qa@gmail.com](mailto:ubushieva.qa@gmail.com)
+- 🌱 Learning more about **Applitools Eyes** (AI visual testing), **Postman AI**, and expanding into full test automation frameworks
+- 🧪 Background: manual and functional QA, test case design (**Qase, TestRail**), defect management (**Azure DevOps, Jira**), API testing (**Postman, Swagger**), **SQL** data validation, and reverse-engineering undocumented systems into functional specifications
+- 🤖 Using AI (Claude, ChatGPT) as part of my QA workflow for test case generation, documentation, and now for learning test automation itself
+- 💬 Ask me about **Manual QA**, **API Testing**, **test case design**, or my transition into automation
+- 📫 Reach me: [ubushieva.qa@gmail.com](mailto:ubushieva.qa@gmail.com) · [LinkedIn](https://www.linkedin.com/in/juliaubushieva/)
 - ⚡ Fun fact: I love solving puzzles and diving into new technologies!
 
 ---
