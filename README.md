@@ -6,11 +6,11 @@
 
 <div class="github-introduction">
   
-### 👩‍💻 QA Engineer | Python Enthusiast | Automation Tester
+### 👩‍💻 QA Engineer | AI-Assisted Testing | Automation in Progress
 
 I'm a detail-oriented Software QA Engineer with 3+ years of experience in quality assurance and improving user experiences. I'm passionate about identifying and resolving defects to deliver high-quality products that meet and exceed customer expectations.
 
-- 🔭 I’m currently working on projects focused on API testing, UI testing, and Selenium-based automation in Python.
+- 🔭 Currently building **[ai-augmented-test-automation](https://github.com/JuliaUbushieva/ai-augmented-test-automation)**: Playwright + Python UI/API test suites with Page Object Model, Allure reporting, and GitHub Actions CI
 - 🌱 Learning more about **Test Automation Frameworks** and **CI/CD pipelines**
 - 💬 Ask me about **API Testing**, **Selenium Automation**, or **Manual Testing**
 - 📫 Reach me: [ubushieva.qa@gmail.com](mailto:ubushieva.qa@gmail.com)
